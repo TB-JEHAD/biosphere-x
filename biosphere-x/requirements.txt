@@ -1,0 +1,9 @@
+flask
+pandas
+openpyxl
+apscheduler
+stable-baselines3
+gymnasium
+matplotlib
+scikit-learn
+joblib
