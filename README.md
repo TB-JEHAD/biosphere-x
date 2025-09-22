@@ -155,20 +155,6 @@ biosphere-x/
 - **Training**: Knowledge base from actual biosphere data
 - **Output**: Context-aware responses with confidence scoring
 
-## 📈 Key Metrics
-
-### Mars Environmental Conditions
-- **Temperature**: -149.6°C to -40.8°C (avg: -86.9°C)
-- **Atmospheric Pressure**: 668-1020 Pa (avg: 775 Pa)
-- **Habitability Score**: 0.67 average (146 excellent locations)
-- **Suitable Microorganisms**: 2 identified species
-
-### Moon Environmental Conditions
-- **Temperature**: -270.1°C to 173.5°C (avg: -65.5°C)
-- **Habitability Score**: 0.43 average (1498 poor locations)
-- **Radiation Levels**: Variable across lunar surface
-- **Sunlight Hours**: Extensive variations by location
-
 ## 🔬 Technical Specifications
 
 ### Backend Technologies
