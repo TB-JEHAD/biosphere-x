@@ -72,7 +72,7 @@ biosphere-x/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/TB-JEHAD/biosphere-x.git
    cd biosphere-x
    ```
 
