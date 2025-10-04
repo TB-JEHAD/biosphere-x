@@ -89,7 +89,6 @@ biosphere-x/
 4. **Access the dashboards**
    - Mars Dashboard: `http://localhost:8000/mars.html`
    - Moon Dashboard: `http://localhost:8000/moon.html`
-   - API Endpoints: `http://localhost:5000/`
 
 ## 📊 Dataset Information
 
